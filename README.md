@@ -5,7 +5,7 @@ This project focuses on predicting house prices using various machine learning m
 
 ## Table of Contents
 
-Overview
+-[Overview] (#overview)
 
 Dataset
 
@@ -19,7 +19,7 @@ Requirements
 
 Usage
 
-## (Overview)
+## Overview
 
 This project aims to predict house prices based on several factors, such as area, number of bedrooms, bathrooms, and more. By implementing a voting regressor, we leverage the strengths of multiple models to achieve better performance.
 
