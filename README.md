@@ -7,11 +7,12 @@ This project focuses on predicting house prices using various machine learning m
 
 [Overview](#overview)
 
-Dataset
+[Dataset](#dataset)
 
-Features and Preprocessing
+[Features and Preprocessing](#Features and Preprocessing)
 
-Model Training
+
+[Model Training](#Model Training)
 
 Results
 
