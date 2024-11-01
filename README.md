@@ -19,7 +19,7 @@ Requirements
 
 Usage
 
-## Overview
+## (Overview)
 
 This project aims to predict house prices based on several factors, such as area, number of bedrooms, bathrooms, and more. By implementing a voting regressor, we leverage the strengths of multiple models to achieve better performance.
 
@@ -28,11 +28,17 @@ This project aims to predict house prices based on several factors, such as area
 The dataset contains features like:
 
 Area
+
 Bedrooms
+
 Bathrooms
+
 Stories
+
 Parking
+
 Furnishing Status
+
 And other binary attributes indicating the presence of amenities like a basement or air conditioning.
 
 
