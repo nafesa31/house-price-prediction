@@ -78,8 +78,11 @@ seaborn
 
 ## Usage
 
-Preprocessing: Load and preprocess the dataset.
-Model Training: Run the models individually and then the voting regressor.
-Evaluation: Assess the results based on performance metrics.
+### Preprocessing:
+Load and preprocess the dataset.
+### Model Training:
+Run the models individually and then the voting regressor.
+### Evaluation:
+Assess the results based on performance metrics.
 
 Run each cell in the provided Jupyter notebook to complete the process.
