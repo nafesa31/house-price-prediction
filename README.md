@@ -5,7 +5,7 @@ This project focuses on predicting house prices using various machine learning m
 
 ## Table of Contents
 
--[Overview] (# overview)
+-[Overview](#overview)
 
 Dataset
 
